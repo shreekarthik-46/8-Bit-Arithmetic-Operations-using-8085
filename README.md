@@ -36,10 +36,11 @@ HLT
 <img width="300" height="488" alt="Screenshot 2026-02-02 210617" src="https://github.com/user-attachments/assets/3e88f435-0850-49ab-9d60-4a7c7044a5af" />
 <img width="308" height="460" alt="Screenshot 2026-02-02 210626" src="https://github.com/user-attachments/assets/0c3aaba0-8c0e-4756-9b2c-ace44fdd50e9" />
 
-![WhatsApp Image 2026-02-03 at 10 26 05 AM](https://github.com/user-attachments/assets/7957158a-3a14-4d28-a5e3-2abe8ed72f57)
 
 
 
+
+![exp1add](https://github.com/user-attachments/assets/574e7dfe-a584-45f2-ab6c-c7b6ae75f63b)
 
 ### For Subtraction (Considering Greater Number):
 1.	Load the first number from memory location 4200H into register A.
@@ -70,9 +71,8 @@ HLT
 <img width="308" height="495" alt="Screenshot 2026-02-02 211021" src="https://github.com/user-attachments/assets/0dc2b5a5-2c3a-490a-8258-2506f4f4a88b" />
 <img width="305" height="415" alt="Screenshot 2026-02-02 211031" src="https://github.com/user-attachments/assets/7b6c6a30-ed93-43d7-8070-5623b86dab71" />
 
-![WhatsApp Image 2026-02-03 at 10 26 05 AM (1)](https://github.com/user-attachments/assets/d206c09c-ee1b-438a-accc-5299366f7ff1)
 
-
+![exp1sub](https://github.com/user-attachments/assets/f88dae20-9f17-48ed-a4d6-26fc39cb4c72)
 
 
 ### For Multiplication:
@@ -102,9 +102,9 @@ HLT
 <img width="307" height="495" alt="Screenshot 2026-02-02 211953" src="https://github.com/user-attachments/assets/91dcc3ef-463a-4c40-9a78-27be7bf370ab" />
 <img width="311" height="550" alt="Screenshot 2026-02-02 212046" src="https://github.com/user-attachments/assets/1ddb8a24-c320-4a0b-98fa-9b1ec258618c" />
 
-![WhatsApp Image 2026-02-03 at 10 26 06 AM](https://github.com/user-attachments/assets/59360b54-cd59-4f72-bb33-4b28166849da)
 
 
+![exp1mux](https://github.com/user-attachments/assets/6d66c45d-8cbe-4cb7-9d77-2e411edc9b34)
 
 
 ### For Division:
@@ -142,8 +142,8 @@ HLT
 <img width="298" height="586" alt="Screenshot 2026-02-03 100516" src="https://github.com/user-attachments/assets/bf29b448-a526-4264-936d-a9ec4e4bbd9f" />
 <img width="304" height="569" alt="Screenshot 2026-02-03 100529" src="https://github.com/user-attachments/assets/8a93e0a3-b9f4-408a-acda-21f30ea9734e" />
 
-![WhatsApp Image 2026-02-03 at 10 26 06 AM (1)](https://github.com/user-attachments/assets/33bd118b-bcad-430e-a217-569424cb33e4)
 
+![exp1div](https://github.com/user-attachments/assets/e7b959e4-1bac-45cf-b5c8-6480c081bdd6)
 
 
 ## Result:
